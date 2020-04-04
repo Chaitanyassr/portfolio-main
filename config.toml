@@ -49,7 +49,7 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "hyaku-nigiri"
-		description = "I am Chaitanya. I love to build new things. I am a quick learner and a heavy [GitHub](https://github.com/Chaitanyassr) user."
+		description = "I am Chaitanya. I love to build new things. I am a quick learner and a heavy [GitHub](https://github.com/Chaitanyassr) user. I am a founder of [Chinuon-studio](https://github.com/Chinuon) an open source organisation. You can get to the site to download games by clicking on the Chinuon icon at the top. Want to know my skills as a developer? check out my resume!"
 		buttonText  = "resume"
 
 
@@ -99,8 +99,8 @@ googleAnalytics = ""
 		headline = "Let's Get In Touch!"
 		description = "Want to hire me as a freelancer or ready to start your next project with me? That's great! Give me a call or send me an email!"
 		phone = "857-289-6685"
-		email = "chaitanyas0101@gmail.com"
-
+		email = "chaitanyas0101@gmail.com, chinuon@circlepanda.io"
+ 
 	# Google Maps section
 	# [params.location]
 	# 	latitude  = "34.007850"
