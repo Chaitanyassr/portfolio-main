@@ -26,7 +26,7 @@ googleAnalytics = ""
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
 
-
+//hi
 	# Navigation
 	[params.navigation]
 		brand = "CHINUON"
