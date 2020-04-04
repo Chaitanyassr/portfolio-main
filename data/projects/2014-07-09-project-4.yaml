@@ -1,8 +1,8 @@
 modalID: 4
-title: Project 4
-date: 2014-07-09
+title: Obesity
+date: 21-11-2019
 img: 4.jpg
-client: Start Bootstrap
-clientLink: "#"
+client: Chinuon-studio
+clientLink: "https://github.com/Chaitanyassr/Obesity"
 category: Web Development
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+description: An android game that is made to create awareness on obesity.
