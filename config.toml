@@ -1,4 +1,4 @@
-baseURL = "http://chinuon.org/"
+baseURL = "https://chaitanyassr.netlify.com"
 languageCode = "en-us"
 title = "chaitanyassr portfolio"
 theme = "hugo-creative-theme"
