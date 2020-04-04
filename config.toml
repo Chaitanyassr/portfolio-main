@@ -97,9 +97,9 @@ googleAnalytics = ""
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		description = "Want to hire me as a freelancer or ready to start your next project with me? That's great! Give me a call or send me an email!"
+		phone = "857-289-6685"
+		email = "chaitanyas0101@gmail.com"
 
 	# Google Maps section
 	# [params.location]
