@@ -70,10 +70,7 @@ googleAnalytics = ""
             title = "My blog"
             description = ""
 
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+
 
 
     # Portfolio modals
