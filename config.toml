@@ -42,8 +42,8 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "HI I AM CHAITANYA"
-		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
-		buttonText = "Find out more"
+		subtitle   = "I am a game developer and a JAMStack geek. I use Unreal engine 4 and Godot for game development. I love Hugo"
+		buttonText = "Hire me"
 
 
 	# About section
