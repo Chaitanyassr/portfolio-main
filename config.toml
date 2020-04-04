@@ -48,9 +48,9 @@ googleAnalytics = ""
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
+		headline    = "hyaku-nigiri"
+		description = "I am Chaitanya. I love to build new things. I am a quick learner and a heavy [GitHub](https://github.com/Chaitanyassr) user."
+		buttonText  = "resume"
 
 
 	# Service section
