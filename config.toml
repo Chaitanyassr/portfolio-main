@@ -58,20 +58,10 @@ googleAnalytics = ""
 		headline = "At your service"
          des = "I love to write in my free time. Check out my [blog](https://chinustorychaitanya.wordpress.com/author/chinustorychaitanya/)(for poems and songs) and [quora](https://www.quora.com/profile/Chaitanya-216). apart from that I also did my graduation in fine-arts from Chandigarh kala kendra. I also do singing, dancing and theater. You can check out my [instagram](https://www.instagram.com/1st_incommand/), [twitter](https://twitter.com/Chinu282828777) and [linkedin](https://www.linkedin.com/in/kumar-chaitanya-a04a13147/)."
  
- 
-
         [[params.services.list]]
 			icon = "fa-paper-plane"
 			title = "Ready to Ship"
 			description = "You can use this theme as is, or you can make changes!"
-
-		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "My blog"
-            description = ""
-
-
-
 
     # Portfolio modals
 	[params.portfolio.modal]
