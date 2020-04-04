@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://chinuon.org/"
 languageCode = "en-us"
 title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
@@ -87,11 +87,12 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		headline = "Want to check out my cool projects. Here's the link of my GitHub account"
 
 		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+			text = "GitHub"
+			icon = "fa-github"
+			link = "https://github.com/Chaitanyassr"
 
 	# Contact section
 	[params.contact]
