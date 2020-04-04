@@ -69,8 +69,8 @@ googleAnalytics = ""
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            title = "My blog"
+            description = "I love to write in my free time. Check out my blog(for poems and songs) and Quora."
 
         [[params.services.list]]
             icon = "fa-heart"
