@@ -56,11 +56,9 @@ googleAnalytics = ""
 	# Service section
 	[params.services]
 		headline = "At your service"
-
+         des = "fa-github"
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+ 
 
         [[params.services.list]]
 			icon = "fa-paper-plane"
@@ -70,7 +68,7 @@ googleAnalytics = ""
 		[[params.services.list]]
             icon = "fa-newspaper-o"
             title = "My blog"
-            description = "I love to write in my free time. Check out my blog(for poems and songs) and Quora."
+            description = "I love to write in my free time. Check out my [blog](https://chinustorychaitanya.wordpress.com/author/chinustorychaitanya/)(for poems and songs) and [quora](https://www.quora.com/profile/Chaitanya-216)."
 
         [[params.services.list]]
             icon = "fa-heart"
