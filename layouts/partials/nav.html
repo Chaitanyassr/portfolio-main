@@ -23,9 +23,9 @@
                         <a class="page-scroll" href="#about">{{ .Site.Params.navigation.links.about }}</a>
                     </li>
                 {{ end }}
-                                {{ if and .Site.Params.services.list .Site.Params.navigation.links.aside }}
+                                {{ if and .Site.Params.aside.button .Site.Params.navigation.links.aside }}
                     <li>
-                        <a class="page-scroll" href="#about">{{ .Site.Params.navigation.links.aside }}</a>
+                        <a class="page-scroll" href="https://github.com/Chaitanyassr">{{ .Site.Params.navigation.links.aside }}</a>
                     </li>
                 {{ end }}
                 {{ if and .Site.Params.services.list .Site.Params.navigation.links.services }}
