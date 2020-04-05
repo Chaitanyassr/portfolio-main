@@ -35,8 +35,8 @@ googleAnalytics = ""
 			about     = "About"
 			services  = "Services"
 			portfolio = "Portfolio"
-			contact   = "Contact"
-
+			contact   = "Contact" 
+			aside     = "GitHub"
 
 	# Hero section
 	[params.hero]
