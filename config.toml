@@ -38,6 +38,7 @@ googleAnalytics = ""
 			contact   = "Contact" 
 			aside     = "GitHub"
 			youtube   = "YouTube"
+			Patreon   = "Patreon"
 
 	# Hero section
 	[params.hero]
