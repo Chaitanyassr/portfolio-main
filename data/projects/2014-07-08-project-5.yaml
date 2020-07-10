@@ -5,5 +5,26 @@ img: 5.jpg
 client: Chinuon-studio
 clientLink: "https://github.com/Chinuon/Mystic4"
 category: Unreal engine 4
-description: GAMEPLAY - (Check out the youtube link above in navigation pannel), SCREENSHOTS - (https://drive.google.com/drive/folders/13Gr64VSJY48j04fK6MPQA_hnUeGUlrMG?usp=sharing). What I learned and worked on while creating this game - 
-Made AIs using C++(using AI module) and as well as in Blueprints for patrolling. Made Advance AI(enemies) using behaviour trees and Blackboard. Build an immersive combat system. Use the sphere trace method for taking damage and make the health system using C++. Added Health bar, indicator and death animation to paragon and other attack animation as well. Added save and load between levels using blueprint object and instance. Did ray tracing, Penumbras and also implemented God rays using exponential height fog. Added multiplayer networking using blueprints as well as C++ using switch has authority. Did Niagara implementation for attacks effects. Made a Character selection screen with movable background, also made a pause screen. Added Day and night cycle. Implemented ScreenShake and Slow motion using blueprints and as well as C++. Created animation montage and blend space using FBX. Imported FBX also. Worked with megascans. Added notify an animation asset. Added sound cues, Anim montage using blueprints and as well as C++. Set Sound attenuation. Did some LOD reduction. Learned Level Streaming. Worked with an animation sequencer. Added IK foot placement using C++. Worked with nearly all the tools(place mode, foliage and landscape tool). Worked in all the editors like level, material, blueprint, persona, UMG UI, sound cue editor etc. Added Dash ability using Launch character. Created custom events in C++. Learned to create a skybox. Worked with state and event graph in Anim blueprint. Zoom out when in combat mode by changing the arm length of the spring arm component in C++ as well as in blueprints. Also learned to implement Interactive foliage. Also learned about Fog effects, Post-process effects, Virtual texturing, Visibility and occlusion culling, Lighting. Power up.
+description: GAMEPLAY - (Check out the youtube link above in navigation pannel), SCREENSHOTS - (https://drive.google.com/drive/folders/13Gr64VSJY48j04fK6MPQA_hnUeGUlrMG?usp=sharing). 
+What I learned and worked on while creating this game - 
+Made AIs using C++(using AI module) and as well as in Blueprints for patrolling.
+Made Advance AI(enemies) using behaviour trees and Blackboard. Build an immersive combat system.
+Use the sphere trace method for taking damage and make the health system using C++. 
+Added Health bar, indicator and death animation to paragon and other attack animation as well.
+Added save and load between levels using blueprint object and instance. 
+Did ray tracing, Penumbras and also implemented God rays using exponential height fog.
+Added multiplayer networking using blueprints as well as C++ using switch has authority.
+Did Niagara implementation for attacks effects. 
+Made a Character selection screen with movable background, also made a pause screen. 
+Added Day and night cycle. Implemented ScreenShake and Slow motion using blueprints and as well as C++. 
+Created animation montage and blend space using FBX. Imported FBX also. Worked with megascans. 
+Added notify an animation asset. Added sound cues, Anim montage using blueprints and as well as C++. 
+Set Sound attenuation. Did some LOD reduction. Learned Level Streaming. Worked with an animation sequencer. 
+Added IK foot placement using C++. Worked with nearly all the tools(place mode, foliage and landscape tool). 
+Worked in all the editors like level, material, blueprint, persona, UMG UI, sound cue editor etc. 
+Added Dash ability using Launch character. Created custom events in C++. Learned to create a skybox. 
+Worked with state and event graph in Anim blueprint. 
+Zoom out when in combat mode by changing the arm length of the spring arm component in C++ as well as in blueprints. 
+Also learned to implement Interactive foliage. 
+Also learned about Fog effects, Post-process effects, Virtual texturing, Visibility and occlusion culling, Lighting. 
+Power up.
