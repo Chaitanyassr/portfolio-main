@@ -1,9 +1,8 @@
 modalID: 6
-title: coups-d-tat
-date: 3-04-2020
-img: 6.jpg
-client: Chaitanyassr
-clientLink: "https://github.com/Chinuon/coups-d-tat"
-category: Unreal engine 4
-description: What I learned and worked on while creating this game - 
-Created Third-person character from scratch using C++. Attach weapons using C++. Autofire using C++. Damage and implementation of cheat code using C++. Created custom events. Setup custom surface type. Added multiple hit effects using surface type and switch. Set up a custom surface channel. Weapon zoom in. Use radial force in C++ to create explosives. Made AI in Blueprint using FloatingPawnMovement. Use CreateAndSetMaterialInstanceDynamicFromMaterial to change the colour of explosive when it gets shot and ApplyRadialDamage to damage other actors in C++. Added self destruct to a few AI bots using ApplyDamage() and GetWorldTimerManager() when the player is near to it in C++. Added Sounds(attached and at location)using C++. Added Power-Ups speed booster in C++ and use light functions. Use Shading models to create a light function more alluring. Use fresnel. Added Health regeneration in C++. Spawn Item using EQS. BSP tools. Scores mechanism.
+title: pandakit
+date: 19-12-2020
+img: 2.jpg
+client: CirclepandaLab
+clientLink: "https://github.com/CirclepandaLab/pandakit"
+category: Web Development
+description: Pandakit is a framework design for 21st Century web
