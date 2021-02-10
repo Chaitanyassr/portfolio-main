@@ -117,7 +117,7 @@ weight = 10
 
 [[menu.main]]
 identifier = "" # identifier is use for translations
-pre = "Curriculum vitae" # pre is inserted before the translation (icons, image, etc)
+pre = "Curriculum Vitae" # pre is inserted before the translation (icons, image, etc)
 url = "https://drive.google.com/file/d/1oaBRlnlpgoPb2Mj1pxveqjy20f5RRSiY/view" 
 weight = 20 
 
