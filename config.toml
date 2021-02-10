@@ -1,0 +1,165 @@
+# Use an empty string if you have multiple domain linking to your website
+# This string is used to generate the absolute URL for your assets.
+baseURL = 'https://chaitanyassr.netlify.com'
+defaultContentLanguage = 'en'
+# Emoji in markdown files
+enableEmoji = true
+languageCode = 'en-us'
+# Number of blog post per page
+paginate = 10
+theme = 'pico'
+# Title of the website is used for the meta tag title
+# and the square icon (not the favicon)
+title = 'Chinuon / hyaku-nigiri'
+
+[params]
+customCSS = [
+	"style/style.css",
+	"style/theme.sass",
+] # Path relative to assets folder
+customJS = ["js/console.js"] # Path relative to assets folder
+# Homepage description
+# For blog page description you can overwrite it 
+# in the front matter
+description = "Boilerplate website"
+email = "chaitanyas0101@gmail.com"
+favicon = '/favicon.ico'
+# Dark mode support
+# Supported value are :
+# - off
+# - always
+# If commented the theme will use the browser theme.
+# darkMode = 'always'
+
+# Social parameters for contact_icons widget
+[[params.social]]
+alt = "email icon"
+icon = "/icons/email.svg"
+name = "email"
+url = "chaitanyas0101@gmail.com"
+
+[[params.social]]
+alt = "github icon"
+blank = true
+icon = "/icons/github.svg"
+name = "github"
+url = "https://github.com/Chaitanyassr"
+
+[[params.social]]
+alt = "linkedin icon"
+
+icon = "/icons/linkedin.svg"
+name = "linkedin"
+url = "https://www.linkedin.com/in/chinuon/"
+
+[[params.social]]
+alt = "Youtube icon"
+
+icon = "/icons/youtube.svg"
+name = "Youtube"
+url = "https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ"
+
+[[params.social]]
+alt = "Instagram icon"
+
+icon = "/icons/instagram.svg"
+name = "Instagram"
+url = "https://www.instagram.com/1st_incommand/?hl=en"
+
+[[params.social]]
+alt = "twitter icon"
+blank = true
+icon = "/icons/twitter.svg"
+name = "twitter"
+url = "https://twitter.com/Chinu282828777"
+
+[[params.social]]
+alt = "facebook icon"
+blank = true
+icon = "/icons/facebook.svg"
+name = "facebook"
+url = "https://www.facebook.com/kumar.chaitanya.35/"
+
+[[params.socialdemo]]
+alt = "linkedin icon"
+
+icon = "/icons/linkedin.svg"
+name = "linkedin"
+url = "https://www.linkedin.com/in/chinuon/"
+
+[[params.socialdemo]]
+alt = "Youtube icon"
+
+icon = "/icons/youtube.svg"
+name = "Youtube"
+url = "https://www.youtube.com/channel/UCprKvfYuzxnSyET7XaAmREQ"
+
+[[params.socialdemo]]
+alt = "Instagram icon"
+
+icon = "/icons/instagram.svg"
+name = "Instagram"
+url = "https://www.instagram.com/1st_incommand/?hl=en"
+
+
+
+# Navigation bar
+[menu]
+
+
+
+
+[[menu.main]]
+identifier = "home" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/" 
+weight = 10 
+
+[[menu.main]]
+identifier = "" # identifier is use for translations
+pre = "Curriculum vitae" # pre is inserted before the translation (icons, image, etc)
+url = "https://drive.google.com/file/d/1oaBRlnlpgoPb2Mj1pxveqjy20f5RRSiY/view" 
+weight = 20 
+
+[[menu.main]]
+identifier = "contact" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/#contact" 
+weight = 30 
+
+
+# Syntax highlightning
+[markup.highlight]
+guessSyntax = true 
+lineNumbersInTable = true 
+noClasses = false # Set to false to use the Pico default theme.
+tabWidth = 2 
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+# Translation
+# English, French and Italian are supported but you can contribute
+# by adding translation to i18n/ folder.
+[languages.en]
+contentDir = 'content/en'
+#languageCode = 'en'
+#languageName = 'English'
+weight = 0
+
+
+
+# Uncomment the following lines to add an italian translation.
+ # [languages.darkMode]
+ # contentDir = 'content/en'
+ # languageCode = 'en'
+
+ 
+
+# Uncomment the following lines to add an spanish translation.
+# [languages.es]
+# contentDir = 'content/es'
+# languageCode = 'es'
+# languageName = 'Español'
+# weight = 4
