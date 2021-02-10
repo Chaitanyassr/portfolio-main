@@ -1,7 +1,12 @@
 [build]
 command = "hugo --gc"
 publish = "public/"
-Access-Control-Allow-Origin = "*"
+
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
 
 [context.production.environment]
 HUGO_ENABLEGITINFO = "true"
