@@ -25,7 +25,7 @@ hero_media = "/img/port.jpg"
 
 +++
 
-"Future can be read and changed with intuition. Intuition is nothing but the foresight of the brain going through future unconsciously. Like a butterfly in the chous theory changes the timeline ultimately changing the worldline through infinite wormholes in the space. The human brain is capable of changing the course of time by creating its customise wormhole using and regulating the potential difference inside neurons"
+"Future can be read and changed with intuition. Intuition is nothing but the foresight of the brain going through future unconsciously. Like a butterfly in the chaos theory changes the timeline ultimately changing the worldline through infinite wormholes in the space. The human brain is capable of changing the course of time by creating the customise wormhole using and regulating the potential difference inside neurons"
 # Hey! I am **Chinuon** aka Chaitanya.
 
 I solve daily problems using abstraction and decomposition. I am a **Game / Level Designer** and an Unreal Engine developer.
