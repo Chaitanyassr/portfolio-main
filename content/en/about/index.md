@@ -6,7 +6,7 @@ type = "blog"
 
 **"The Hyaku-nigiri, the owner of the conqueror plam musukake, the ENFP, the 1 and 9, believe...I am CHINUON version 10."**
 
-I'm **Kumar Chaitanya** also known as **Chinuon**. I would be explaing the quote later in this section but first start with me as an ENFP. As an [ENFP](https://www.16personalities.com/enfp-personality) / Campaigner or a Champion, I have traits like Extraverted, Intuitive, Feeling, and Prospect. I tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. I am a dreamer with a vibrant energy that flows in many directions. I am a self-confident, ambitious and audacious person. I am Chinuon.
+I'm **Kumar Chaitanya** also known as **Chinuon**. I would be explaing the quote later in this section but first let's start with me as an ENFP. As an [ENFP](https://www.16personalities.com/enfp-personality) / Campaigner or a Champion, I have traits like Extraverted, Intuitive, Feeling, and Prospect. I tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. I am a dreamer with a vibrant energy that flows in many directions. I am a self-confident, ambitious and audacious person. I am Chinuon.
 
 
 
