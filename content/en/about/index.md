@@ -4,7 +4,9 @@ title = "About me"
 type = "blog"
 +++
 
-I'm **Kumar Chaitanya** also known as **Chinuon**. As an [ENFP](https://www.16personalities.com/enfp-personality) / Campaigner or a Champion, I have traits like Extraverted, Intuitive, Feeling, and Prospect. I tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. I am a dreamer with a vibrant energy that flows in many directions. I am a self-confident, ambitious and audacious person. I am Chinuon.
+**"The Hyaku-nigiri, the owner of the conqueror plam musukake, the ENFP, the 1 and 9, believe...I am CHINUON version 10."**
+
+I'm **Kumar Chaitanya** also known as **Chinuon**. I would be explaing the quote later in this section but first start with me as an ENFP. As an [ENFP](https://www.16personalities.com/enfp-personality) / Campaigner or a Champion, I have traits like Extraverted, Intuitive, Feeling, and Prospect. I tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. I am a dreamer with a vibrant energy that flows in many directions. I am a self-confident, ambitious and audacious person. I am Chinuon.
 
 
 
@@ -36,7 +38,7 @@ I did not get satisfied easily. I realized this fact when I was very young. I wa
 
 
 
-I love games. I play games every second of my life. For me, life is a game and I am always completing the quest. I also follow an exp system by gaining it I can increase my levels or version. I am currently at the level or version 9. The transition from one version to another seems to me like I am doing metamorphosis so I called myself a butterfly PS a dragon tail butterfly. I also gain new skills during the transition and add them up in my personal skill tree. Also, don't get surprised to find out that my animal spirit is also a butterfly and I also feel mesmerized with the butterfly effect. There is also a second animal spirit for me and that is a dragon.
+I love games. I play games every second of my life. For me, life is a game and I am always completing the quest. I also follow an exp system by gaining it I can increase my levels or version. I am currently at the level or version 10. The transition from one version to another seems to me like I am doing metamorphosis so I called myself a butterfly PS a dragon tail butterfly. I also gain new skills during the transition and add them up in my personal skill tree. Also, don't get surprised to find out that my animal spirit is also a butterfly and I also feel mesmerized with the butterfly effect. There is also a second animal spirit for me and that is a dragon.
 
 
 
@@ -44,7 +46,7 @@ I love to find out about new things and one of the most interesting things for m
 
 
 
-I even use concepts of MF and CF to prove how astrology is real. It's the scientific explanation that I created and that's how planets or any celestial body influence our behavior and universe to some extend. My Sun, Moon, and Rising sign are Sagittarius, Libra, and Leo respectively. I always attract attention as I have a Leo as my rising sign while my ENFP personality can be linked to me being a Sagittarius.
+I even use concepts of MF and CF to prove how astrology is real. It's the scientific explanation that I created and that's how planets or any celestial body influence our behavior and universe to some extend. My Sun, Moon, and Rising sign are Sagittarius, Libra, and Leo respectively. I always attract attention as I have a Leo as my rising sign while my ENFP personality can be linked to me being a Sagittarius. Me being a leo ascendant could be link to me being hyaku-nigiri as well. Being leo ascendant is half part of my personility. My Lagna lord is the sun which also contains Rahu(the north node of the moon). Rahu and Sun(Leo) which are the 2 strongest planets explains my Hyaku-nigiri behaviour. I have the perfect combination of Yin and Yang energy which also explains my infinite desires to conquer everything as Rahu a shadow planet intensify the house and the house lord power in which it sits. I truly love each and every part of my personality and all the planets. My moon nakshatra is Swati(pada-3) meanwhile my rising and Rahu nakshatra is Purva Phalguni(pada 4 & 3 respectively). My Sun was in Anuradha nakshatra(pada -3) when I was born. My Atmakarka planet is venus while my Amatyakarka is Jupiter. Rahu in Leo makes be an excellent leader. The following article explains things of how it is like when [Rahu is in Leo](http://sacred-astrology.blogspot.com/2007/03/details-of-rahu-in-leo-simh-and-ketu-in.html). It is very fascinating to see how each and every thing is connected with each other like a nexus.
 
 
 
