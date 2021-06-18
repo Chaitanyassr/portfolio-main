@@ -14,6 +14,12 @@ subtitle = "I organization was founded in 2019 October. Eariler games that I mad
   url = "https://www.patreon.com/chinuon"
 	# The text of the button
   label = "Patreon"
+  
+  [[btn]]
+	# The url of the button
+  url = "https://www.patreon.com/chinuon"
+	# The text of the button
+  label = "Donate Bitcoin"
 
 
 # [[bar]]
