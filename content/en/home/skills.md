@@ -17,7 +17,7 @@ subtitle = "I organization was founded in 2019 October. Eariler games that I mad
   
   [[btn]]
 	# The url of the button
-  url = "bc1q4hd2ejergkfyvm9x5kgd3cjmsjrfk8qnpygjku"
+  url = "img/bitcoin.jpg"
 	# The text of the button
   label = "Donate Bitcoin"
 
