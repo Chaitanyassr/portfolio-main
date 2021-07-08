@@ -9,7 +9,7 @@ title = "Lol Coins"
 # Widget subtitle
 subtitle = "Lol coins or (LOL) is a crypto token created on 7th July 2021 by Chinuon. It has 10Billion total supply. Construction of Chinuon token are also underway and these tokens are a part of Chinuon crypto program. LOl Coin is currently available for exchange on pancake swap. It would be going to be available on more exchange platforms in future. You can add LoL to your wallet using the contract address from bscscan."
 
-[[period]] # The url of the button url = "https://poocoin.app/tokens/0x9fc7d00524cb60fe08172c8e8cfc5d25dccaa424" # The text of the button label = "LoL on poocoin"
+[[btn]] # The url of the button url = "https://poocoin.app/tokens/0x9fc7d00524cb60fe08172c8e8cfc5d25dccaa424" # The text of the button label = "LoL on poocoin"
 
 [[btn]] # The url of the button url = "https://bscscan.com/token/0x9fc7d00524cb60fe08172c8e8cfc5d25dccaa424" # The text of the button label = "Bscscan"
 
