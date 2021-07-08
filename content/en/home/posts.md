@@ -11,6 +11,12 @@ weight = 50  # Order that this section will appear.
 title = "Recent Posts"
 subtitle = "Read about my latest projects"
 
+ [[btn]]
+	# The url of the button
+  url = "img/bitcoin.jpg"
+	# The text of the button
+  label = "Donate Bitcoin"
+
 [content]
 	# Page type to display. E.g. post, talk, or publication.
 	page_type = "blog"
