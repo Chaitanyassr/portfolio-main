@@ -9,7 +9,7 @@ weight = 20  # Order that this section will appear.
 title = "Chinuon Studio"
 subtitle = "I organization was founded in 2019 October. Eariler games that I made under Chinuon Studio was using Godot. Later I shifted to Unreal engine 4 and currently developing a game called as Mystic 4."
 
-title = "Chinuon Studio"
+
 
 [[btn]]
 	# The url of the button
