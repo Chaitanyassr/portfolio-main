@@ -1,32 +1,16 @@
++++ widget = "timeline" weight = 30 # Order that this section will appear.
 
-+++
-widget = "timeline"
-weight = 30  # Order that this section will appear.
+Uncomment the following line and widget will NOT be displayed
+hidden = true
 
-# Uncomment the following line and widget will NOT be displayed
- hidden = true
-# Widget title
-title = "Lol Coins"
-# Widget subtitle
-subtitle = "Lol coins or (LOL) is a crypto token created on 7th July 2021 by Chinuon. It has 10Billion total supply. Construction of Chinuon token are also underway and these tokens are a part of Chinuon crypto program. LOl Coin is currently available for exchange on pancake swap. It would be going to be available on more exchange platforms in future. You can add LoL to your wallet using the contract address from bscscan."
+Widget title
+title = "Experience"
 
+Widget subtitle
+subtitle = "What lead me to acquire experience."
 
+date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 
-# date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
+[[period]] title = "Chief cook" subtitle = "Krusty krab" location = "Bikini Bottom" date_start = "2017-01-01" date_end = "" description = "Chief cook of the biggest restaurant of Bikini Bottom."
 
-# [[period]]
- # title = "Chief cook"
- # subtitle = "Krusty krab"
- # location = "Bikini Bottom"
- # date_start = "2017-01-01"
- # date_end = ""
- # description = "Chief cook of the biggest restaurant of Bikini Bottom."
-
-# [[period]]
- # title = "Trainee cook"
- # subtitle = "Krusty krab"
- # location = "California"
- # date_start = "2016-01-01"
-#  date_end = "2016-12-31"
-#  description = "I learned the basics of cooking, the passion and the secrets of a good burger."
-+++
+[[period]] title = "Trainee cook" subtitle = "Krusty krab" location = "California" date_start = "2016-01-01" date_end = "2016-12-31" description = "I learned the basics of cooking, the passion and the secrets of a good burger." +++
