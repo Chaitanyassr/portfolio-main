@@ -24,6 +24,7 @@ subtitle = "I organization was founded in 2019 October. Eariler games that I mad
   label = "Donate Bitcoin"
 
 
+
 # [[bar]]
 #	icon = "/icons/precision.svg"
 #	name = "Precision"
@@ -48,6 +49,3 @@ subtitle = "I organization was founded in 2019 October. Eariler games that I mad
 
 +++
 
-**Chinuon Studio**
-
-The organization was founded in 2019 October. Eariler games that I made under Chinuon Studio was using Godot like "Brave Knight" and "Obesity". Later I shifted to Unreal engine 4 and developed a game called as Mystic 4. Check out youtube for more. Currently developing some other interesting games.
