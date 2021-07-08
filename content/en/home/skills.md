@@ -47,10 +47,9 @@ subtitle = "The organization was founded in 2019 October. Eariler games that I m
 #	name = "Presentation"
 #	percent = "75%"
 
-**Chinuon Studio**
-
-The organization was founded in 2019 October. Eariler games that I made under Chinuon Studio was using Godot like "Brave Knight" and "Obesity". Later I shifted to Unreal engine 4 and developed a game called as Mystic 4. Check out youtube for more. Currently developing some other interesting games.
 
 +++
 
+**Chinuon Studio**
 
+The organization was founded in 2019 October. Eariler games that I made under Chinuon Studio was using Godot like "Brave Knight" and "Obesity". Later I shifted to Unreal engine 4 and developed a game called as Mystic 4. Check out youtube for more. Currently developing some other interesting games.
