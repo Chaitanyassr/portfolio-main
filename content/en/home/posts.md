@@ -3,7 +3,7 @@
 # This section displays recent blog posts from `content/post/`.
 
 # Uncomment the following line and widget will NOT be displayed
- hidden = false
+ hidden = true
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 weight = 50  # Order that this section will appear.
