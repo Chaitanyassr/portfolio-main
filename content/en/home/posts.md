@@ -8,7 +8,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 weight = 50  # Order that this section will appear.
 
-title = "Lol Coin"
+title = "LOL COIN"
 subtitle = ""
 
 
