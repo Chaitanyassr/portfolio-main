@@ -4,7 +4,7 @@ title = "About me"
 type = "blog"
 +++
 
-**"The Hyaku-nigiri, the owner of the conqueror palm musukake, the ENFJ + ENFP + ENTJ, the 1 and 9, believe...I am CHINUON version 12."**
+**"The Hyaku-nigiri, the owner of the conqueror palm musukake, the ENFJ + ENFP + ENTJ, the 1 and 9, believe...I am CHINUON version 13."**
 
 I'm **Kumar Chaitanya** also known as **Chinuon**. I would be explaing the quote later in this section but first let's start with me as an ENFP. As an [ENFP](https://www.16personalities.com/enfp-personality) / Campaigner or a Champion, I have traits like Extraverted, Intuitive, Feeling, and Prospect. I tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. I am a dreamer with a vibrant energy that flows in many directions. I am a self-confident, ambitious and audacious person. While my core is an ENFP, my personility is ENFJ. I took the test recently and I found out that I am the protagonist, I am Chinuon.
 
