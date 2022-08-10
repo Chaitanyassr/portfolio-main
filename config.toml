@@ -110,7 +110,7 @@ url = "https://www.instagram.com/1st_incommand/?hl=en"
 
 
 [[menu.main]]
-identifier = "home" # identifier is use for translations
+identifier = "Vedic Astrology" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/" 
 weight = 10 
