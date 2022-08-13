@@ -112,7 +112,7 @@ url = "https://www.instagram.com/1st_incommand/?hl=en"
 [[menu.main]]
 identifier = "Vedic Astrology" # identifier is use for translations
 pre = "Vedic Astrology" # pre is inserted before the translation (icons, image, etc)
-url = "/about/Astro.md" 
+url = "/about/#Astro" 
 weight = 10 
 
 [[menu.main]]
