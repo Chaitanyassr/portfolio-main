@@ -117,7 +117,7 @@ weight = 10
 
 [[menu.main]]
 identifier = "Home" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
+pre = "Home" # pre is inserted before the translation (icons, image, etc)
 url = "/" 
 weight = 20 
 
