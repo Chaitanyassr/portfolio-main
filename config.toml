@@ -116,16 +116,18 @@ url = "/blog"
 weight = 10 
 
 [[menu.main]]
-identifier = "" # identifier is use for translations
-pre = "Curriculum Vitae" # pre is inserted before the translation (icons, image, etc)
-url = "https://drive.google.com/file/d/1BCG6DR7RpMsPAJVkqdqLwzXlvZ435Ypo/view" 
+identifier = "Home" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/" 
 weight = 20 
 
 [[menu.main]]
-identifier = "contact" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/#contact" 
-weight = 30 
+identifier = "" # identifier is use for translations
+pre = "Curriculum Vitae" # pre is inserted before the translation (icons, image, etc)
+url = "https://drive.google.com/file/d/1BCG6DR7RpMsPAJVkqdqLwzXlvZ435Ypo/view" 
+weight = 30
+
+
 
 
 # Syntax highlightning
