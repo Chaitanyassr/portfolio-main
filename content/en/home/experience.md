@@ -1,4 +1,4 @@
-+++ 
+
 widget = "timeline" 
 weight = 30 # Order that this section will appear.
 
@@ -32,6 +32,6 @@ subtitle = "Lol coins or (LOL) is a crypto token created on 7th July 2021 by Chi
 #date_end = "2016-12-31" 
 #description = "I learned the basics of cooking, the passion and the secrets of a good burger." 
 
-+++
+
 
 [url](https://www.patreon.com/chinuon)
