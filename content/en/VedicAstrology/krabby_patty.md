@@ -12,26 +12,12 @@ banner = 'img/krabby_patty.webp'
 
 +++
 
-## Ingredients:
+## Destiny Pack:
 
-For 4 people :
-- Lots of love
-- 2 cans of crab meat
-- 1 lightly beaten egg
-- 1/2 lemon juice
-- Breadcrumbs
-- 1 tomato
-- Hamburger bread
-- Pickles
-- 1 onion
-- 4 salad leaves
-- Frying oil
-- Salt pepper
+Will tell you about your future
+will tell you about your past
 
-For the sauce:
-- Worcestershire sauce
-- Ketchup
-- Mustard
+
 
 ## Steps :
 
