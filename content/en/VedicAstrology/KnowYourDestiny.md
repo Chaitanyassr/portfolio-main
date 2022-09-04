@@ -23,7 +23,7 @@ banner = 'img/krabby_patty.webp'
 - It will contain a direct path for you to follow for your goals to solve your life problems.
 
 
-## Buy Destiny Pack now - link
+## Buy Destiny Pack now - https://pages.razorpay.com/VedicDestinyPack
 
-Note - It might take one to 5 days for you to get your destiny information as I have read the birth chart. Please do leave your birth date, time and birth place for me to be able to read the chart. More Vedic chart pack would be coming in future.
+Note - It might take one to 5 days for you to get your destiny information as I have read the birth chart. Please do leave your birth date, time and birth place for me to be able to read the chart. More Vedic chart pack would be coming in future depending on my avilibility. 
 
